@@ -32,4 +32,17 @@
 // npm i debug --save
 
 // npm i inquirer chalk --save
-//
+
+// UNIT TEST ES6
+// npm install --save-dev ava
+
+// Parametros de configuracion por defecto
+// npm i --save defaults
+// npm i sqlite3 --save-dev
+
+// TEST Code Coverage
+// npm i nyc --save-dev
+
+// Mocks y Stubs
+// pm install --save-dev sinon
+// npm i proxyquire --save-dev
